@@ -1,0 +1,15 @@
+Protocol:
+
+NC = name request
+N = name
+ND = name deny
+NC = name confirm
+
+M = move
+D = direction
+T = turn
+S = shoot
+
+DC = disconnect
+TG = terminate game
+
